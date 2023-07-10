@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Shruti Yadav
-- 👀 I’m interested in MarTech
-- 🌱 I’m currently learning Marketing Analytics
-- 💞️ I’m looking to collaborate on Martech Tools
+- 🌱 I’m a Marketing Analytics
 - 📫 How to reach me : shruti1994yadav@gmail.com
 
 <!---
